@@ -1,13 +1,13 @@
-# Conta
+# Deployed Contract Addresses
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Lisk Sepolia Hardhat Deployment
+```0x20d4Bec324556Cf8ec7F972F09B0F01373e1f1CD```
 
-Try running some of the following tasks:
+## Lisk Sepolia Foundry Deployment
+```0xb110f0785009a46d6fc98D1B43e1B7B6662EAE6f```
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+## Arc Testnet Hardhat Deployment
+```0xB016b136a008F210Ca1D7855B2D792628c635BFC```
+
+## Arc Testnet Foundry Deployment
+```0x3f3e7041cd240279700377D8De1a7696a57EBC65```
