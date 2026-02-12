@@ -13,7 +13,7 @@
 ```0x3f3e7041cd240279700377D8De1a7696a57EBC65```
 
 ### Foundry Test Cases
-[⠒] Compiling...
+```[⠒] Compiling...
 [⠊] Compiling 1 files with Solc 0.8.25
 [⠒] Solc 0.8.25 finished in 1.91s
 Compiler run successful!
